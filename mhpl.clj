@@ -1,6 +1,7 @@
 (use 'clojure.contrib.def)
 
 (defalias 𒊓 ns)
+(defalias 𒂋 def)
 (defalias 𒂊 defn)
 (defalias 𒂊- defn-)
 (defalias 𒈪 fn)
