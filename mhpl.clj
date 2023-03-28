@@ -1,0 +1,12 @@
+(use 'clojure.contrib.def)
+
+(defalias 𒊓 ns)
+(defalias 𒂊 defn)
+(defalias 𒂊- defn-)
+(defalias 𒈪 fn)
+(defalias 𒈪? fn?)
+(defalias 𒈬 print)
+(defalias 𒈭 printf)
+(defalias 𒍑 println)
+(defalias 𒁺 str)
+(defalias 𒌨 count)
