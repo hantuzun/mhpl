@@ -1,4 +1,4 @@
-# mhpl
+# MHPL
 
 MHPL is an experimental programming language written in Cuneiform and transpiled to Clojure.
 
