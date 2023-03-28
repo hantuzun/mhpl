@@ -41,7 +41,7 @@ The string 'Hello, World!' has 13 characters!
 
 ## How Is It Developed?
 
-We've just replaced the English keywords in Clojure with Cuneiform counterparts. The following design decisions are made:
+We've just replaced the English words in Clojure with Cuneiform counterparts. The following design decisions are made:
  * Cuneiforms are picked based on their legibility and unique looks rather than their meanings.
  * The Clojure characters such as parantheses and dashs are kept.
  * Arabic numerals are kept.
@@ -73,8 +73,11 @@ Source: https://clojure.github.io/clojure/clojure.core-api.html#clojure.core/def
 ### Unicode Cuneiform Characters
 There're 922 Sumero-Akkadian Cuneiform script characters in Unicode version 15.0. The list is available on: [cuneiform_unicode_characters.txt](cuneiform_unicode_characters.txt).
 
+## Future Work
+All of the words Clojure should be covered. The selected Cuneiform characters should be as distinct looking as possible.
+
 ## Version
-This alpha version is transpiled to Clojure 1.11. This language should not be used for mission critical software, especially for fighter jets.
+This alpha version is transpiled to Clojure 1.11. MHPL should not be used for mission critical software, especially for fighter jets.
 
 ## The MIT License (MIT)
 Copyright © 2023 Han Tuzun
